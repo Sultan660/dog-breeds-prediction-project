@@ -2,6 +2,8 @@
 
 Project in Data Scientist Nanodegree of Udacity - Message Classification 
 
+This project uses 8351 dog images of 133 breeds to classify dogs with a neural network. Convolutional neural networks CNN is used to improve our classification algorithm, because it works well with images detection. CNN has convolutional and pooling layers connected and activation function. 
+
 ### Table of Contents
 
 1. [Installation](#installation)
